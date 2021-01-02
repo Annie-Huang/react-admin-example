@@ -3,7 +3,11 @@ React Admin Crash Course (https://www.youtube.com/watch?v=HRmdj-HpJyE)
 https://github.com/bradtraversy/react-admin-example
 https://github.com/Annie-Huang/react-admin-example
 
+https://github.com/marmelab/react-admin
+
 ===========================================================
 
 C:\react\react-admin-example>npm init -y
 C:\react\react-admin-example>npm i json-server
+
+C:\react\react-admin-example>npm run server
