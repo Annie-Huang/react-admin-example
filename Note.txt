@@ -4,3 +4,6 @@ https://github.com/bradtraversy/react-admin-example
 https://github.com/Annie-Huang/react-admin-example
 
 ===========================================================
+
+C:\react\react-admin-example>npm init -y
+C:\react\react-admin-example>npm i json-server
