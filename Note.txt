@@ -1,0 +1,6 @@
+React Admin Crash Course (https://www.youtube.com/watch?v=HRmdj-HpJyE)
+
+https://github.com/bradtraversy/react-admin-example
+https://github.com/Annie-Huang/react-admin-example
+
+===========================================================
