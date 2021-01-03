@@ -23,3 +23,6 @@ with raw body of:
       "publishedAt": "10-02-2020"
     }
 Seems only create the id, Need to manually add the rest of the part into db.json
+
+
+C:\react\react-admin-example>npx create-react-app client
