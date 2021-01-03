@@ -11,3 +11,15 @@ C:\react\react-admin-example>npm init -y
 C:\react\react-admin-example>npm i json-server
 
 C:\react\react-admin-example>npm run server
+http://localhost:5000/posts  GET       <<< Can use postman to see result
+http://localhost:5000/users  GET
+
+Use postman to do
+http://localhost:5000/posts  POST
+with raw body of:
+    {
+      "title": "Post Four",
+      "body": "This is the post body",
+      "publishedAt": "10-02-2020"
+    }
+Seems only create the id, Need to manually add the rest of the part into db.json

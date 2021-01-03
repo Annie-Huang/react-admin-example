@@ -17,6 +17,12 @@
       "title": "Post Three",
       "body": "This is the post body",
       "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "XeBys4w",
+      "title": "Post Four",
+      "body": "This is the post body",
+      "publishedAt": "10-02-2020"
     }
   ],
   "users": [
