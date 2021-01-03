@@ -27,4 +27,7 @@ Seems only create the id, Need to manually add the rest of the part into db.json
 
 C:\react\react-admin-example>npx create-react-app client
 C:\react\react-admin-example>npm i concurrently
+C:\react\react-admin-example\client>npm i react-admin ra-data-simple-rest @material-ui/core
+
+
 C:\react\react-admin-example>npm run dev
