@@ -8,7 +8,8 @@ import {
   DeleteButton,
 } from 'react-admin';
 
-// Currently get "The simple REST data provider expects responses for lists of resources to contain this header with the total number of results to build the pagination." error
+// Without the range.js, you will get error of: "The Content-Range header is missing in the HTTP Response.
+// The simple REST data provider expects responses for lists of resources to contain this header with the total number of results to build the pagination."
 const PostList = (props) => {
   return (
     <List {...props}>
